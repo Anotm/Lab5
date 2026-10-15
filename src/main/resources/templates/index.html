@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>AddressBook App</title>
+</head>
+<body>
+<h1>AddressBook App</h1>
+
+<h2>Address books</h2>
+<ul>
+    <li th:each="book : ${addressBooks}">
+        <a th:href="@{/addressbook/{id}(id=${book.id})}" th:text="'Address Book #' + ${book.id}">Address Book</a>
+    </li>
+</ul>
+
+<h2>REST API</h2>
+<ul>
+    <li><a href="/api">/api</a> (all resources)</li>
+    <li><a href="/api/addressBooks">/api/addressBooks</a></li>
+    <li><a href="/api/buddyInfos">/api/buddyInfos</a></li>
+</ul>
+</body>
+</html>
