@@ -1,10 +1,10 @@
 # AddressBook App
 
-**Name:** YOUR NAME HERE
+**Name:** Toman Aleksiev
 
-![Build Status](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO/actions/workflows/maven.yml/badge.svg)
+![Build Status](https://github.com/Anotm/Lab5/actions/workflows/maven.yml/badge.svg)
 
-**Deployed app:** https://YOUR-AZURE-APP-NAME.azurewebsites.net
+**Deployed app:** babaksoft-new-gpabdeeye8ffhehp.canadacentral-01.azurewebsites.net
 
 ## Endpoints
 - `/` landing page
