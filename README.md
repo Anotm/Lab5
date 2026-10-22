@@ -4,7 +4,7 @@
 
 ![Build Status](https://github.com/Anotm/Lab5/actions/workflows/maven.yml/badge.svg)
 
-**Deployed app:** babaksoft-new-gpabdeeye8ffhehp.canadacentral-01.azurewebsites.net
+**Deployed app:** https://babaksoft-new-gpabdeeye8ffhehp.canadacentral-01.azurewebsites.net
 
 ## Github Link
 https://github.com/Anotm/Lab5
